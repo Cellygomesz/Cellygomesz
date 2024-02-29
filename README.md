@@ -13,8 +13,6 @@
   <a href="https://www.linkedin.com/in/marcelly-gomes-24bbb8245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-![eu](https://discord.com/channels/862677138254462978/1177780123278266439/1212757858236633108)
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
