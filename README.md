@@ -5,7 +5,6 @@
 <br>
 <img src="https://media.tenor.com/J1dzs1TwOmwAAAAe/dont-panic-hitchhikers-guide-to-the-galaxy.png" width="370px" align="right">
 <br>
-  <br>
   📝 Estudando Biofísica na UFRJ. <br>
   🎓 Formada em Analista de Dados Júnior.<br>
   💻 Preferência por Back-end.<br>
