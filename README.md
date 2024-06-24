@@ -1,5 +1,7 @@
 # Olá, eu sou a Marcelly! 
 
+<img src="https://i.pinimg.com/originals/c8/10/be/c810be9e4353bfc4cefeb31bf977ad32.gif">
+
 ## Sobre mim
 
   📝 Estudando Biofísica na UFRJ. <br>
