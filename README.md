@@ -1,31 +1,34 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Madimi+One&size=30&pause=998&color=7C18D2&background=25053E73&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=&width=435&lines=Hi%2C+I'm+Marcelly+%F0%9F%92%9C)](https://git.io/typing-svg)
-<hr>
-<img src="https://github-readme-stats.vercel.app/api?username=Cellygomesz&theme=material-palenight&icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cellygomesz&layout=compact&theme=material-palenight&icons=true"/>
+# Olá, eu sou a Marcelly! 🚀
 
-![233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2](https://github.com/Cellygomesz/Cellygomesz/assets/155611559/7bfa49bc-4b1a-47f7-9de1-953b40e7c269)
+## Sobre mim
+<img src="https://media.tenor.com/J1dzs1TwOmwAAAAe/dont-panic-hitchhikers-guide-to-the-galaxy.png" width="370px" align="right">
+  <br>
+  📝 Estudando Biofísica na UFRJ. <br>
+  🎓 Formada em Analista de Dados Júnior.<br>
+  💻 Preferência por Back-end.<br>
+  📚 Leitora nas horas vagas.<br>
+  💭 <em>“Encontrarei um caminho, ou criarei um próprio.”</em>
+  <br> 
+  <br>
+  
+## Tecnologias
 
-##
- 
-<div> 
- <a href="https://discord.gg/745484499533430796" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "marcellygomes003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcelly-gomes-24bbb8245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<img align="right" height="170" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7b80cd76-77fd-472e-a686-70429806aabe/d7995m0-cfd89b95-6909-4323-824a-3726b775465f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdiODBjZDc2LTc3ZmQtNDcyZS1hNjg2LTcwNDI5ODA2YWFiZVwvZDc5OTVtMC1jZmQ4OWI5NS02OTA5LTQzMjMtODI0YS0zNzI2Yjc3NTQ2NWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LTZ0Gq-OqRyczBWkA82a_Etiq9PxP69VilpN6Ej4D_o">
+
+<div align="center">
+
+Front-end | Back-end | Estudando no momento
+:---------:|:---------:|:----------------------:
+<a href="#" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></a><a href="h#" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a><a href="#" target="_blank"><img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />| <a href="#" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a><a href="#" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a> | <a href="#" target="_blank"><img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></a><a href="#" target="_blank"><a href="#" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
+
 </div>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
+## Contato
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/marcelly-gomes-24bbb8245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "marcellygomes003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<br><br>
+
+   
