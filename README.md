@@ -1,5 +1,7 @@
 # Olá, eu sou a Marcelly! 🚀
 
+<img align="center" height="230px" src="https://camo.githubusercontent.com/aa9557de6bb009b4805f61f8a5861882dc6593d297ad0d13243028f309d25259/68747470733a2f2f7374617469632e70696e676361702e636f6d2f66696c65732f323032322f31322f30353037323730372f636861744750542d4769744875622d62616e6e65722e6a7067" width="100%">
+
 ## Sobre mim
 
   📝 Estudando Biofísica na UFRJ. <br>
