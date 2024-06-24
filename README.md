@@ -5,7 +5,7 @@
 
 ## |Sobre mim
 
-  📝 Estudando Biofísica na UFRJ. <br>
+  📝 Estudante de Biofísica na UFRJ. <br>
   🎓 Formada em Analista de Dados Júnior.<br>
   💻 Preferência por Back-end.<br>
   📚 Leitora nas horas vagas.<br>
