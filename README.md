@@ -1,6 +1,6 @@
 # Olá, eu sou a Marcelly! 
 
-<img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif" height="200px" width="100%">
+<img src="https://i.pinimg.com/originals/81/54/f1/8154f194b885dab7d8dfda870ebdf40c.gif" height="200px" width="100%">
 
 ## Sobre mim
 
