@@ -26,6 +26,8 @@ Front-end | Back-end | Estudando no momento
 
 </div>
 
+<br>
+
 ## Contato
 
 <div align="center">
