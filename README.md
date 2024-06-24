@@ -38,7 +38,6 @@ Front-end | Back-end | Estudando no momento
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=Cellygomesz&theme=dark&icons=true"/>
   <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cellygomesz&layout=compact&theme=dark&icons=true"/>
 
 <hr>
 <picture>
