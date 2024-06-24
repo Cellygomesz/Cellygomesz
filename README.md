@@ -20,9 +20,6 @@
 
 <div align="center">
 
-<br>
-<br>
-
 Front-end | Back-end | Estudando no momento
 :---------:|:---------:|:----------------------:
 <a href="#" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></a><a href="h#" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a><a href="#" target="_blank"><img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />| <a href="#" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a><a href="#" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a> | <a href="#" target="_blank"><img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></a><a href="#" target="_blank"><a href="#" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
@@ -33,7 +30,6 @@ Front-end | Back-end | Estudando no momento
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcelly-gomes-24bbb8245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "marcellygomes003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br><br>
 
    
