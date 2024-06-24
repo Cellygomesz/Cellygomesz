@@ -1,6 +1,6 @@
-# Olá, eu sou a Marcelly! 🚀
+# Olá, eu sou a Marcelly! 🩷
 
-<img align="center" height="350px" src="https://img.genial.ly/64413f130664e30018998bc1/0dffb8d0-91fd-4080-9dc2-a0dd7786f539.gif" width="100%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif" height="200px">
 
 ## Sobre mim
 
@@ -12,7 +12,7 @@
   <br> 
   <br>
   
-## Tecnologias
+## Tecnologias 🚀
 
 <br>
 
