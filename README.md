@@ -1,6 +1,7 @@
 # Olá, eu sou a Marcelly! 
 
-<img src="https://i.pinimg.com/originals/c8/10/be/c810be9e4353bfc4cefeb31bf977ad32.gif">
+<!--<img src="https://i.pinimg.com/originals/c8/10/be/c810be9e4353bfc4cefeb31bf977ad32.gif"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=Cellygomesz&theme=dark&icons=true"/>
 
 ## Sobre mim
 
@@ -35,9 +36,10 @@ Front-end | Back-end | Estudando no momento
 <div align="center">
   <a href="https://www.linkedin.com/in/marcelly-gomes-24bbb8245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br><br>
+  <!--
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=Cellygomesz&theme=dark&icons=true"/>
-  <br>
+  <br> -->
 
 <hr>
 <picture>
