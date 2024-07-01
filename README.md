@@ -2,6 +2,7 @@
 
 <!--<img src="https://i.pinimg.com/originals/c8/10/be/c810be9e4353bfc4cefeb31bf977ad32.gif">
 <img src="https://github-readme-stats.vercel.app/api?username=Cellygomesz&theme=dark&icons=true"/> -->
+<img src="https://media1.giphy.com/media/Cg9oeBXqFayCq26ggf/source.gif" height="120px">
 
 ## |Sobre mim
 
