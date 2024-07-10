@@ -6,8 +6,8 @@
 
 ## |Sobre mim
 
-  🎓 Formada em Analista de Dados Júnior.<br>
-  💻 Preferência por Back-end.<br>
+ <!-- 🎓 Formada em Analista de Dados Júnior.<br>
+  💻 Preferência por Back-end.<br>-->
   📚 Leitora nas horas vagas.<br>
   💭 <em>“Encontrarei um caminho, ou criarei um próprio.”</em>
   <br> 
