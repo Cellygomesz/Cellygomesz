@@ -9,7 +9,7 @@
  <!-- 🎓 Formada em Analista de Dados Júnior.<br>
   💻 Preferência por Back-end.<br>-->
   📚 Leitora nas horas vagas.<br>
-  💭 <em>“Encontrarei um caminho, ou criarei um próprio.”</em>
+  💭 <em>“Se eu não puder ter certeza, terei coragem.”</em>
   <br> 
   <br>
   
