@@ -6,8 +6,8 @@
 
 ## |Sobre mim
 
- <!-- 🎓 Formada em Analista de Dados Júnior.<br>
-  💻 Preferência por Back-end.<br>-->
+ <!-- 🎓 Formada em Analista de Dados Júnior.<br> -->
+  💻 Estudo programação.<br>
   📚 Leitora nas horas vagas.<br>
   💭 <em>“Se eu não puder ter certeza, terei coragem.”</em>
   <br> 
