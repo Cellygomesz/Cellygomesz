@@ -1,6 +1,5 @@
-# Olá, eu sou a Marcelly! 
-
-<img src="https://media.licdn.com/dms/image/D4E22AQG2egv0DIhnVg/feedshare-shrink_2048_1536/0/1713275164903?e=2147483647&v=beta&t=kUWO22KiqIqLZYTJYL00wZTqG6ba0OZ2ep0VL9rzcsc" height="120px">
+# 💜 Olá, eu sou a Marcelly!
+<br>
 
 ## |Sobre mim
 
