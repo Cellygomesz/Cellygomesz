@@ -1,6 +1,6 @@
 # Olá, eu sou a Marcelly! 
 
-<img src="https://media1.giphy.com/media/Cg9oeBXqFayCq26ggf/source.gif" height="120px">
+<img src="https://media.licdn.com/dms/image/D4E22AQG2egv0DIhnVg/feedshare-shrink_2048_1536/0/1713275164903?e=2147483647&v=beta&t=kUWO22KiqIqLZYTJYL00wZTqG6ba0OZ2ep0VL9rzcsc" height="120px">
 
 ## |Sobre mim
 
@@ -22,7 +22,7 @@
 
 Back-end | Estudando no momento
 |:---------:|:----------------------:
-| <a href="#" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a><a href="#" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a> | <a href="#" target="_blank"><img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></a><a href="#" target="_blank"><a href="#" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
+| <a href="#" target="_blank"><a href="#" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a> | <a href="#" target="_blank"><img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></a><a href="#" target="_blank"><a href="#" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
 
 </div>
 
@@ -33,24 +33,6 @@ Back-end | Estudando no momento
 <div align="center">
   <a href="https://www.linkedin.com/in/marcelly-gomes-24bbb8245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br><br>
- <!--
+ 
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=Cellygomesz&theme=dark&icons=true"/>
-  <br> -->
 
-<hr>
-<!--
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture> -->
