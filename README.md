@@ -1,4 +1,4 @@
-# 💜 Olá, eu sou a Marcelly!
+# 🩵 Olá, eu sou a Marcelly!
 <br>
 
 ## |Sobre mim
