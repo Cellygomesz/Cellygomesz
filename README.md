@@ -5,11 +5,15 @@
 
 ## |Sobre mim
 
-  💻 Estudo programação.<br>
+  🎓 Análise e Desenvolvimento de Sistemas.<br>
+  💻 Estudante de Engenharia de Softwarer na 42Rio.<br>
   📚 Leitora nas horas vagas.<br>
   💭 <em>“Se eu não puder ter certeza, terei coragem.”</em>
-  <br> 
-  <br>
+
+  
+  
+<br> 
+<br>
   
 ## |Tecnologias 
 
@@ -17,9 +21,14 @@
 
 <div align="center">
 
-Back-end | Estudando no momento
-|:---------:|:----------------------:
-| <a href="#" target="_blank"><img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></a>| <a href="#" target="_blank"><a href="#" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
+<a href="#" target="_blank"><img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></a>
+<a href="#" target="_blank"><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
+<a href="#" target="_blank"><img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vim/vim-original.svg" /></a>
+<a href="#" target="_blank"><img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" /></a>
+<a href="#" target="_blank"><img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" /></a>
+<a href="#" target="_blank"><img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" /></a>
+<a href="#" target="_blank"><img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg" /></a>
+<!-- <a href="#" target="_blank"><img height="50" width="60" src="" /></a> -->
 
 </div>
 
