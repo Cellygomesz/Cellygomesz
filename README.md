@@ -6,11 +6,13 @@
 ## |Sobre mim
 
   🎓 Análise e Desenvolvimento de Sistemas.<br>
-  💻 Estudante de Engenharia de Softwarer na 42Rio.<br>
+  💻 Estudante de Engenharia de Software na 42Rio.<br>
   📚 Leitora nas horas vagas.<br>
-  💭 <em>“Se eu não puder ter certeza, terei coragem.”</em>
+  💭 <em>“Se eu não puder ter certeza, terei coragem.”</em><br>
 
-  
+  Gosto de brincar com Back-end, mas tenho intresse em áreas como : <br>
+  Quality Assurance, Engenharia de Software, Gestão de projetos/pessoas.<br>
+  Amo aprender coisas novas e sempre que possível eu me jogo em algum desafio :) <br>
   
 <br> 
 <br>
