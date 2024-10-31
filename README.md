@@ -15,8 +15,8 @@
 
 <div>
 <a href="#" target="_blank"><img height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></a>
-<a href="#" target="_blank"><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
 <a href="#" target="_blank"><img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/go/go-original.svg" /></a>
+<a href="#" target="_blank"><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
 <!-- <a href="#" target="_blank"><img height="50" width="60" src="" /></a> -->
 
 </div>
