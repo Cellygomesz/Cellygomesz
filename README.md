@@ -8,8 +8,8 @@
   💻Software Engineering Student at 42 School.<br>
   💭 <em>“If I can't be sure, I will have courage.”</em><br>
 <br>
-<a href="#" target="_blank"><img height="50" width="60" src="https://media.tenor.com/hD56X-Q5AzMAAAAi/gopher-shaking.gif" /></a>
-<br>
+<!--<a href="#" target="_blank"><img height="50" width="60" src="https://media.tenor.com/hD56X-Q5AzMAAAAi/gopher-shaking.gif" /></a>
+<br> -->
   
 ## | My favorite languages
 <br>
