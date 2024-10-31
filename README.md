@@ -4,23 +4,12 @@
 <img height="170" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" >
 <br>
 
-## | Sobre mim
 <br>
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas.<br>
-  💻 Estudante de Engenharia de Software na 42Rio.<br>
-  📚 Leitora nas horas vagas.<br>
-  💭 <em>“Se eu não puder ter certeza, terei coragem.”</em><br>
-<br>
-
-  <hr>
-  <br>
-  Gosto de brincar com Back-end, mas tenho intresse em áreas como : <br>
-  Quality Assurance, Engenharia de Software, Gestão de projetos/pessoas.<br>
-  Amo aprender coisas novas e sempre que possível eu me jogo em algum desafio :)
-<br>
+  💻Software Engineering Student at 42 School.<br>
+  💭 <em>“If I can't be sure, I will have courage.”</em><br>
 <br>
   
-## | Linguagens Que mais utilizo
+## | My favorite languages
 
 <br>
 
@@ -32,6 +21,8 @@
 
 </div>
 
+### Connect with me:
+<a href="https://www.linkedin.com/in/marcelly-gomes-24bbb8245/"/> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
 
 ## | Contato
 
