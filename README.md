@@ -1,5 +1,6 @@
-# 🩵 Olá, eu sou a Marcelly!
-<br>
+# Hi, i'm Marcelly!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=48E2F7&width=445&height=60&lines=Software+developer;Quality+Assurance" alt="Typing SVG" /></a>
+
 
 <img height="170" src="https://camo.githubusercontent.com/5735f42e019588c1464747f6f523bb68dc23f196479aa01ec1ceb669cdf1bb91/68747470733a2f2f696b2e696d6167656b69742e696f2f746563686965736e65682f68695f4f3373394267706c442e676966" >
 
@@ -34,6 +35,8 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/marcelly-gomes-24bbb8245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br><br>
- 
-<hr>
+ <hr>
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Cellygomesz&label=Profile%20Views&icon=7&pretty=false" />
+</a>
 
