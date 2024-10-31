@@ -1,4 +1,4 @@
-# Hi, i'm Marcelly!
+# 💙 Hi, i'm Marcelly!
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=48E2F7&width=445&height=60&lines=Software+developer;Quality+Assurance" alt="Typing SVG" /></a>
 
 <img height="170" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" >
