@@ -9,7 +9,7 @@
   💭 <em>“If I can't be sure, I will have courage.”</em><br>
 <br>
   
-### My favorite languages
+### | My favorite languages
 
 <br>
 
