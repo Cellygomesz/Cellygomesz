@@ -6,7 +6,7 @@
 
 ## | Sobre mim
 <br>
-  🎓 Análise e Desenvolvimento de Sistemas.<br>
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas.<br>
   💻 Estudante de Engenharia de Software na 42Rio.<br>
   📚 Leitora nas horas vagas.<br>
   💭 <em>“Se eu não puder ter certeza, terei coragem.”</em><br>
